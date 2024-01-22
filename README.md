@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning IT in a government college in Pune Maharashtra
 - 💞️ I’m looking to collaborate on easy projects on c,c++,java which would help me learn to work in a team
 - 📫 How to reach me email me on ishaniamitrawat@gmail.com
-- 😄 Pronouns: please call me by my name:-Ishani
+- 😄 Pronouns: Please call me by my name:-Ishani
 - ⚡ Fun fact: I like to dance,sing,travel etc. I can also make psychological obversations about the person,how he/she behaves or will behave if he/she is in a particular situation.
 
 <!---
